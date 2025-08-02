@@ -1,0 +1,13 @@
+Start
+    Set firstName to "John"
+    Set lastName to "William"
+    Set streetAddress to "331 Eaglehead Rd"
+    Set city to "East Rochester"
+    Set zipCode to "14445"
+
+    Print firstName
+    Print lastName
+    Print streetAddress
+    Print city
+    Print zipCode
+End
